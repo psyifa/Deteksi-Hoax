@@ -23,7 +23,7 @@ df = pd.DataFrame(data)
 
 # Set up the Streamlit app
 st.title("Model")
-st.subheader("Evaluation Metrics")
+st.subheader("Matriks Evaluasi")
 
 # Display the DataFrame as a table
 st.table(df)
